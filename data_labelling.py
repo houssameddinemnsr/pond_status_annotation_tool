@@ -121,7 +121,6 @@ def main():
 		
 	with col3:
 		next_button = st.button('Next')
-		if state.active_project == True:
 
 	with col1:
 		#if state.input ==0:
